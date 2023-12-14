@@ -8,7 +8,7 @@ public class Datatypes {
         byte b = 125;
         boolean c = true;
         short d = 1234;
-        long e = 9_322_525_758l;
+        long e = 9_322_525_758L;
         char f = 'A';
         System.out.println(age);
         System.out.println(a);
