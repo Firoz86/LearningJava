@@ -12,6 +12,12 @@ public class Datatypes {
         char f = 'A';
         System.out.println(age);
         System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+
 
     }
 }

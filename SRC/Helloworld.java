@@ -5,6 +5,6 @@ public class Helloworld {
         System.out.println("Hello World");
         int age = 38;
         String name = "Firoz";
-        System.out.println("My name is" + " " + name);
+        System.out.println("My name is" + name +' ' + age);
     }
 }
